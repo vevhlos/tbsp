@@ -6,6 +6,6 @@
     "json2ify": "~0.0.3",
     "jqueryify": "~1.9.1",
     "spine": "~1.2.0",
-    "serveup": "latest",
+    "serveup": "latest"
   }
 }
