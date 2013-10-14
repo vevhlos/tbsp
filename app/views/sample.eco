@@ -1,0 +1,2 @@
+<h2>Spine.js version <%= @version %></h2>
+<p>Time to get busy with this magic, yo!</p>
